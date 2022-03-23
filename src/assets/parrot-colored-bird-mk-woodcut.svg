@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:cc="http://web.resource.org/cc/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlnsSvg="http://www.w3.org/2000/svg"
+    xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlnsNs1="http://sozi.baierouge.fr"
+    xmlnsXlink="http://www.w3.org/1999/xlink"
+    xmlnsDc="http://purl.org/dc/elements/1.1/"
+    xmlnsCc="http://web.resource.org/cc/"
+    xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     version="1.0"
     viewBox="0 0 918.000000 918.000000"
   >
@@ -37,48 +37,48 @@
   >
   <metadata
     >
-    <rdf:RDF
+    <rdfRDF
       >
-      <cc:Work
+      <ccWork
         >
-        <dc:format
-          >image/svg+xml</dc:format
+        <dcFormat
+          >image/svg+xml</dcFormat
         >
-        <dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        <dcType
+            rdfResource="http://purl.org/dc/dcmitype/StillImage"
         />
-        <cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        <ccLicense
+            rdfResource="http://creativecommons.org/licenses/publicdomain/"
         />
-        <dc:publisher
+        <dcPublisher
           >
-          <cc:Agent
-              rdf:about="http://openclipart.org/"
+          <ccAgent
+              rdfAbout="http://openclipart.org/"
             >
-            <dc:title
-              >Openclipart</dc:title
+            <dcTitle
+              >Openclipart</dcTitle
             >
-          </cc:Agent
+          </ccAgent
           >
-        </dc:publisher
+        </dcPublisher
         >
-      </cc:Work
+      </ccWork
       >
-      <cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+      <ccLicense
+          rdfAbout="http://creativecommons.org/licenses/publicdomain/"
         >
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        <ccPermits
+            rdfResource="http://creativecommons.org/ns#Reproduction"
         />
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
+        <ccPermits
+            rdfResource="http://creativecommons.org/ns#Distribution"
         />
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        <ccPermits
+            rdfResource="http://creativecommons.org/ns#DerivativeWorks"
         />
-      </cc:License
+      </ccLicense
       >
-    </rdf:RDF
+    </rdfRDF
     >
   </metadata
   >

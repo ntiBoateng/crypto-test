@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState, useContext, useEffect } from 'react';
 import { Switch, Route, useParams } from 'react-router-dom';
 import { DataContext } from "../components/NavBars/DataContext";

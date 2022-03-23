@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState, useEffect, useContext } from 'react';
 
 import styled from 'styled-components';
@@ -96,6 +97,7 @@ export default function MarketBannerMainPage(props) {
     const loader = !loading ? "" : <span>Fecthing data ... </span>
 
 
+    
     const newUpdateTime = props.lastUpdateTime ? props.lastUpdateTime : Time.fromTimestamp(globalInfos.paprikaInfos.last_updated);
 
     return (

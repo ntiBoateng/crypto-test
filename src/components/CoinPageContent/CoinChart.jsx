@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useContext } from 'react';
 import TradingViewWidget, { Themes } from 'react-tradingview-widget';
 import styled from 'styled-components';
