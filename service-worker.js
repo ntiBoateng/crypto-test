@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cryptomarketparrot/precache-manifest.e2bf8d952f74d6ef2fb4e5d2d2522136.js"
+  "/crypto-test/precache-manifest.1b99324e6bff496020ea1d4e2fc10930.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/cryptomarketparrot/index.html", {
+workbox.routing.registerNavigationRoute("/crypto-test/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
